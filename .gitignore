@@ -1,0 +1,16 @@
+!default.jpg
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+# /storage
+/vendor
+/.idea
+/.vagrant
+/Uploads/*
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+package-lock.json
